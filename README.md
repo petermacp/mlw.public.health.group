@@ -1,9 +1,3 @@
----
-output:
-  pdf_document: default
-  word_document: default
-  html_document: default
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -143,7 +137,7 @@ environment, we all have to do a few things.
     this honestly. It is never ok to plagiarise, tamper with data, make
     up data, omit data, or fudge results in any way. Science is about
     finding out the truth, and null results and unexpected results are
-    still important. This can’t be emphasized enough: no academic
+    still important. This can’t be emphasised enough: no academic
     misconduct\!
   - Support your fellow researchers. Help them out if they need help
     (even if you aren’t on the project), and let them vent when they
@@ -366,9 +360,8 @@ research, we do the following:
     allow version control while you are doing analysis - once analysis
     is complete, you can convert to a public repository for sharing with
     the world\!). Using GitHub facilitates collaborative analysis with
-    your research team and statistician. Instructions for setting
-    working with GitHub and RStudio can be found
-    [here](https://happygitwithr.com)
+    your research team and statistician. Instructions for working with
+    GitHub and RStudio can be found [here](https://happygitwithr.com)
   - Distribute the protocol, analysis plan, and statistical analysis
     package with all papers that you publish, unless there are
     compelling public safety or privacy reasons not to do so. Be careful
@@ -380,9 +373,9 @@ research, we do the following:
 **Freely available science** MLW receives subtantial core funding for
 research from Wellcome. Additionally, many group members and projects
 will receive funding from charities, governments and research
-institutes. For science to progress, it is essential all all of our
+institutes. For science to progress, it is essential that all of our
 research is available freely, and as soon as possible. We follow
-[Wellcomes Open Access
+[Wellcome’s Open Access
 Policy](https://wellcome.ac.uk/news/wellcome-updates-open-access-policy-align-coalition-s)
 in our approach to publication:
 
@@ -438,8 +431,8 @@ main PI will be last. Students and post-docs who help over the course of
 the project may be added to the author list depending on their
 contribution, and their placement will be discussed with all parties
 involved in the paper. If a student or post-doc takes on a project but
-subsequently hands it off to another student or post-doc, they will most
-likely lose first-authorship to that student or post-doc, unless
+subsequently hands it over to another student or post-doc, they will
+most likely lose first-authorship to that student or post-doc, unless
 co-first-authorship is appropriate. All of these issues will be
 discussed openly, and you should feel free to bring them up if you are
 not sure of your authorship status or want to challenge it.
@@ -525,8 +518,8 @@ back at work.
   - Be mindful when forwarding emails - did the orginal sender want to
     have their email sent to someone else?
   - Make sure email addressed are spelled correctly, and beware of
-    autocompleting addresses - check the “TO” list twice before pressing
-    “Send”
+    autocompleting addresses - check the “To” and “CC” lists twice
+    before pressing “Send”
   - ***Do not*** send any personally-identifying information about study
     participants by email
 
@@ -538,6 +531,10 @@ back at work.
   - Try not to send WhatsApp messages about work outside of work hours.
     This can be intrusive, and impact upon work-life balance.
   - Don’t send personal/non-work messages to your work WhatsApp groups.
+
+*Slack* We have Slack Workspace (MLW Public Health Research) for
+communicating about work - please feel free to start a new channel for
+your study.
 
 *Calendars*
 
@@ -569,7 +566,7 @@ We encourage you to:
 
 Be careful not to publish personally-identifying information about study
 participants (e.g. photos, names etc without consent). Speak to Peter or
-MLW SciComm Depart if you want further help on using Twitter.
+MLW SciComm Department if you want further help on using Twitter.
 
 <br>
 
@@ -626,6 +623,10 @@ Meetings rotate weekly between:
   - Project Technical, comprising of a review of the progress of all
     group projects.
 
+Please review the schedule regularly, and ensure that you are prepared
+to present when it is your turn. If you need help with a presentation or
+journal club, ask Peter.
+
 Projects with a laboratory component (or any other Group Members who are
 interested) should attend the TB Lab Meeting, held at the College of
 Medicine on every second Wednesday morning. Ask Thandie or Doris for the
@@ -635,10 +636,6 @@ Peter, or his nominated deputy, will attend the monthly MLW Research
 Strategy Committee. If you have a project LOI that is being reviewed,
 please ensure that they are briefed in advance of the meeting.
 
-Please review the schedule regularly, and ensure that you are prepared
-to present when it is your turn. If you need help with a presentation or
-journal club, ask Peter.
-
 **Other meetings/seminars**
 
   - All group members should attend the MLW Project Progress Report
@@ -647,6 +644,9 @@ journal club, ask Peter.
     in the presentation schedule.
   - Additionally, when senior investigators visit MLW, they will often
     give a “Cutting Edge” presentation. All group members should attend.
+  - PhD Students should attend the PhD Students Scientific Meetings on
+    Friday mornings, chaired by the MLW Director (make sure you are on
+    the MLW PhD Student mailing list)
   - Feel free to attend other MLW Group’s Journal Clubs, but beware of
     committing to participating in another rotation of
     presentations/journal clubs, as time demands can become
@@ -666,13 +666,25 @@ conference submissions
   - Generally, it is good to present new results that haven’t yet been
     published at conferences. This means you need to plan submission
     carefully to fit timelines for publication.
+
   - Make sure supervisors and authors are aware of the proposed
     submission, and have read and approved the abstract
+
   - Consider who is going to pay for the costs of the conference (there
     is generally no “pot” of money available, and you shouldn’t pay for
-    these yourself) \_ Travel, including airplane flights if required \_
-    Visas \_ Hotels/accomodation \_ Travel/health insurance \_
-    Conference registeration \_ Local expenses (travel, food, etc)
+    these yourself). Think about:
+
+  - Travel, including airplane flights if required
+
+  - Visas
+
+  - Hotels/accomodation
+
+  - Travel/health insurance
+
+  - Conference registeration
+
+  - Local expenses (travel, food, etc)
 
 Remember that when you are at a conference, you are respresenting the
 Public Health Group and MLW - follow the Group Code of Conduct.
@@ -695,7 +707,7 @@ If you have new results to report, consider submitting abstracts to:
     Health](https://hyderabad.worldlunghealth.org), including TB Science
     Conference (Focus on TB and Lung Health, held annually)
   - [CROI](http://www.croiconference.org): Conference on Retroviruses
-    and Opportunistic Infectiouns (Focus on HIV and opportunistic
+    and Opportunistic Infections (Focus on HIV and opportunistic
     infections, including TB, held annually in North America)
   - [IAS/AIDS](https://www.iasociety.org/Conferences) (Focus on HIV,
     held annually)

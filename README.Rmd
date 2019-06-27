@@ -73,7 +73,7 @@ Science is hard. But it’s also fun. In the Public Health Group, we want to mak
 *	Work on what you’re passionate about, work hard at it, and be proud of it. Be so proud of it that you have to suppress bragging (but it’s ok to brag sometimes).
 *	Scientists have to be careful. Don’t rush your work. Think about it. Implement it. Double and triple check it. Incorporate sanity checks. Ask others to look at your code or data if you need help or something looks off. It’s ok to makes mistakes, but mistakes shouldn’t be because of carelessness or rushed work.
 *	If you do make a mistake, you should definitely tell your collaborators (if they have already seen the results, and especially if the paper is being written up, is already submitted, or already accepted). We admit our mistakes, and then we correct them and move on.
-*	We all want to get papers published and do great things. But we do this honestly. It is never ok to plagiarise, tamper with data, make up data, omit data, or fudge results in any way. Science is about finding out the truth, and null results and unexpected results are still important. This can’t be emphasized enough: no academic misconduct!
+*	We all want to get papers published and do great things. But we do this honestly. It is never ok to plagiarise, tamper with data, make up data, omit data, or fudge results in any way. Science is about finding out the truth, and null results and unexpected results are still important. This can’t be emphasised enough: no academic misconduct!
 *	Support your fellow researchers. Help them out if they need help (even if you aren’t on the project), and let them vent when they need to. Science is collaborative, not competitive. Help others, and you can expect others to help you when you need it.
 *	Respect your fellow researchers. Respect their strengths and weaknesses, respect their desire for quiet if they need it, and for support and a kind ear when they need that. Respect their culture, their religion, their beliefs, and their lifestyles.
 *	If you’re struggling, tell someone (feel free to tell Peter!). Your health and happiness come first. The Group looks out for the well-being of all its members. We are here to help. It’s ok to go through hard patches (we all do), but you shouldn’t feel shy about asking for help.
@@ -172,12 +172,12 @@ Reproducibile research requires that each step of the research process is docume
 * Use MLW-approved data collection systems, with auditable storage and cleaning of raw data
 * For statistical analysis, we use R. Interfacing to R through [RStudio](https://www.rstudio.com) will make your life considerable easier! For an introduction to R, we recommend the [R for Data Science](https://r4ds.had.co.nz) textbook.
 * Manage all of your data (raw, cleaned for sharing), and analysis and output files (markdown, tables, figures, manuscripts) within an R package. This will make sharing and collaboration easier. Instructions for making an R package are [here](https://kbroman.org/pkg_primer/). The `usethis` [package](https://usethis.r-lib.org) automates much of this process.
-* Get a [GitHub](https://github.com) username, and apply for a free educational license to allow you to create private repositories (to allow version control while you are doing analysis - once analysis is complete, you can convert to a public repository for sharing with the world!). Using GitHub facilitates collaborative analysis with your research team and statistician. Instructions for setting working with GitHub and RStudio can be found [here](https://happygitwithr.com)
+* Get a [GitHub](https://github.com) username, and apply for a free educational license to allow you to create private repositories (to allow version control while you are doing analysis - once analysis is complete, you can convert to a public repository for sharing with the world!). Using GitHub facilitates collaborative analysis with your research team and statistician. Instructions for working with GitHub and RStudio can be found [here](https://happygitwithr.com)
 * Distribute the protocol, analysis plan, and statistical analysis package with all papers that you publish, unless there are compelling public safety or privacy reasons not to do so. Be careful not to share personally-identifying information in the package.
 * Things are changing quickly. If you find a new approach to doing reproducible research that you think will work, share it with the group.
 
 **Freely available science**
-MLW receives subtantial core funding for research from Wellcome. Additionally, many group members and projects will receive funding from charities, governments and research institutes. For science to progress, it is essential all all of our research is available freely, and as soon as possible. We follow [Wellcomes Open Access Policy](https://wellcome.ac.uk/news/wellcome-updates-open-access-policy-align-coalition-s) in our approach to publication:
+MLW receives subtantial core funding for research from Wellcome. Additionally, many group members and projects will receive funding from charities, governments and research institutes. For science to progress, it is essential that all of our research is available freely, and as soon as possible. We follow [Wellcome's Open Access Policy](https://wellcome.ac.uk/news/wellcome-updates-open-access-policy-align-coalition-s) in our approach to publication:
 
 * All research articles must be made freely available through [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) and [Europe PMC](https://europepmc.org) at the time of publication.
 * All articles must be published under a [Creative Commons attribution licence (CC-BY)](https://creativecommons.org/licenses/)
@@ -204,7 +204,7 @@ Authorship is based on four criteria:
 * Final approval of the version to be published; AND
 * Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
 
-Authorship should usually be defined at the start of a project, before any data collection or analysis has taken place, and recorded on the Project Concept Note form. At the start of a new project, the student or post-doc taking on the lead role (i.e. the person who is leading the analysis and writing) can expect to be first author (talk to Peter about it if you aren’t sure). Peter will typically be the last author, unless the project is primarily under the guidance of another PI and Peter is involved as a secondary PI – then Peter will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
+Authorship should usually be defined at the start of a project, before any data collection or analysis has taken place, and recorded on the Project Concept Note form. At the start of a new project, the student or post-doc taking on the lead role (i.e. the person who is leading the analysis and writing) can expect to be first author (talk to Peter about it if you aren’t sure). Peter will typically be the last author, unless the project is primarily under the guidance of another PI and Peter is involved as a secondary PI – then Peter will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it over to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
 
 **Publication of mansucripts**
 We aim to submit manuscripts as soon as possible to share results and facilitate open science. Before submission of a manuscript, the project lead should ensure that:
@@ -247,7 +247,7 @@ We expect you to work hard and enjoy science whilst at work, but to be able to r
 * Please be polite and respectful when sending emails - you are writing to your professional colleagues
 * ***Do not*** send "reply-all" emails, unless everyone in the email group needs to read your response.
 * Be mindful when forwarding emails - did the orginal sender want to have their email sent to someone else?
-* Make sure email addressed are spelled correctly, and beware of autocompleting addresses - check the "TO" list twice before pressing "Send"
+* Make sure email addressed are spelled correctly, and beware of autocompleting addresses - check the "To" and "CC" lists twice before pressing "Send"
 * ***Do not*** send any personally-identifying information about study participants by email
 
 *WhatsApp*
@@ -256,6 +256,9 @@ We expect you to work hard and enjoy science whilst at work, but to be able to r
 * Set-up a work WhatsApp group for your project.
 * Try not to send WhatsApp messages about work outside of work hours. This can be intrusive, and impact upon work-life balance.
 * Don't send personal/non-work messages to your work WhatsApp groups.
+
+*Slack*
+We have Slack Workspace (MLW Public Health Research) for communicating about work - please feel free to start a new channel for your study.
 
 *Calendars*
 
@@ -277,7 +280,7 @@ We encourage you to:
 * Retweet tweets from your colleagues, using hash-tags and mentions
 * Consider reading a scientific paper a day, and Tweeting about it using the `#paperaday` hastag.
 
-Be careful not to publish personally-identifying information about study participants (e.g. photos, names etc without consent). Speak to Peter or MLW SciComm Depart if you want further help on using Twitter.
+Be careful not to publish personally-identifying information about study participants (e.g. photos, names etc without consent). Speak to Peter or MLW SciComm Department if you want further help on using Twitter.
 
 
 
@@ -318,16 +321,18 @@ Public Health Group meetings are held ***every Thursday between 9am and 10.30am.
 * Scientific, comprising of a research update presentation, and a journal club presentation.
 * Project Technical, comprising of a review of the progress of all group projects.
 
+Please review the schedule regularly, and ensure that you are prepared to present when it is your turn. If you need help with a presentation or journal club, ask Peter.
+
 Projects with a laboratory component (or any other Group Members who are interested) should attend the TB Lab Meeting, held at the College of Medicine on every second Wednesday morning. Ask Thandie or Doris for the schedule.
 
 Peter, or his nominated deputy, will attend the monthly MLW Research Strategy Committee. If you have a project LOI that is being reviewed, please ensure that they are briefed in advance of the meeting.
 
-Please review the schedule regularly, and ensure that you are prepared to present when it is your turn. If you need help with a presentation or journal club, ask Peter.
 
 **Other meetings/seminars**
 
 * All group members should attend the MLW Project Progress Report Presentations (PPR), held in Nyika Room at 15.30-16.00pm on Monday each week. All Masters, PhD and Post-Doc students should participate in the presentation schedule.
 * Additionally, when senior investigators visit MLW, they will often give a "Cutting Edge" presentation. All group members should attend. 
+* PhD Students should attend the PhD Students Scientific Meetings on Friday mornings, chaired by the MLW Director (make sure you are on the MLW PhD Student mailing list)
 * Feel free to attend other MLW Group's Journal Clubs, but beware of committing to participating in another rotation of presentations/journal clubs, as time demands can become unmanageable. 
 
 <br>
@@ -340,13 +345,14 @@ Similar for publications, you should follow authorship guidelines for conference
 
 * Generally, it is good to present new results that haven't yet been published at conferences. This means you need to plan submission carefully to fit timelines for publication.
 * Make sure supervisors and authors are aware of the proposed submission, and have read and approved the abstract
-* Consider who is going to pay for the costs of the conference (there is generally no "pot" of money available, and you shouldn't pay for these yourself)
-_ Travel, including airplane flights if required
-_ Visas
-_ Hotels/accomodation
-_ Travel/health insurance
-_ Conference registeration
-_ Local expenses (travel, food, etc)
+* Consider who is going to pay for the costs of the conference (there is generally no "pot" of money available, and you shouldn't pay for these yourself). Think about:
+
+* Travel, including airplane flights if required
+* Visas
+* Hotels/accomodation
+* Travel/health insurance
+* Conference registeration
+* Local expenses (travel, food, etc)
 
 Remember that when you are at a conference, you are respresenting the Public Health Group and MLW - follow the Group Code of Conduct.
 
@@ -364,7 +370,7 @@ You should always submit abstracts to:
 If you have new results to report, consider submitting abstracts to:
 
 * [The Union World Conference on Lung Health](https://hyderabad.worldlunghealth.org), including TB Science Conference (Focus on TB and Lung Health, held annually)
-* [CROI](http://www.croiconference.org): Conference on Retroviruses and Opportunistic Infectiouns (Focus on HIV and opportunistic infections, including TB, held annually in North America)
+* [CROI](http://www.croiconference.org): Conference on Retroviruses and Opportunistic Infections (Focus on HIV and opportunistic infections, including TB, held annually in North America)
 * [IAS/AIDS](https://www.iasociety.org/Conferences) (Focus on HIV, held annually)
 
 There are other important conferences that you might consider submitting an abstract to. Discuss with Peter/your supervisors before submitting. [This list](https://docs.google.com/spreadsheets/d/1g5D02BlzENdMC5nDkO1i2N3gzCMndePlKO3rYq8QX6w/edit#gid=1081499464) is a helpful resource of conferences.
