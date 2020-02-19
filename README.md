@@ -20,7 +20,7 @@ tuberculosis.
 If you are reading this Group Handbook, you have probably recently
 joined the Public Health Research Group at MLW.
 
-**Welcome and Zikomo Kwabiri\!**
+**Welcome and zikomo kwambiri\!**
 
 We are really glad to have you here, and will do what we can to make
 sure that your time with the group is rewarding. We hope that you will
@@ -162,7 +162,7 @@ environment, we all have to do a few things.
     of MLW academic staff (e.g. MLW Deputy Director or Director).
   - Stay up to date on the latest research, by using PubMed alerts and
     getting emails of journal table of contents. Also consider following
-    scientists in the field on Twitter
+    scientists in the field on Twitter.
   - Have a life outside of the Group, take care of your mental and
     physical health, and don’t ever feel bad for taking time off work.
 
@@ -229,8 +229,8 @@ All of the above, and you will also be expected to…
 All of the above, and you will also be expected to…
 
   - Develop your dissertation research. Your dissertation should have at
-    least 3 substantial objectives that answer a big-picture research
-    question that you have. Much of your work will be done
+    least three substantial objectives that answer a big-picture
+    research question that you have. Much of your work will be done
     independently, but remember that others in Group (especially
     Peter\!) are there to help you when you need it
   - Help mentor interns and volunteers in the Group when they need it –
@@ -489,6 +489,16 @@ that he is either gone, in a meeting, or does not want to be disturbed –
 so please send a message (WhatsApp or e-mail) rather than waiting
 around.
 
+Peter also holds Scientific Office Hours on Monday afternoons from
+13:00pm to 15:30pm. Please book a meeting by emailing Peter and Thandie
+(usually max 30mins to allow as many appointments as possible). Come
+prepared to the meeting: if you want to discuss some analysis, bring
+your code and a short summary of where you are struggling; if you want
+to discuss a new project, bring a Project Concept Note; if you want to
+discuss career direction, make some notes to disucss beforehand.
+Scientific Office Hours should not be used to resolve administrative
+issues.
+
 **Email and other communication etiquitte**
 
 We expect you to work hard and enjoy science whilst at work, but to be
@@ -722,8 +732,8 @@ is a helpful resource of conferences.
 
 If you are presenting a **poster**:
 
-  - Use the Public Health Group Poster template (add a link here for
-    this).
+  - Use the Public Health Group Poster template (Peter to add a link
+    here for this).
   - Prepare a 1-2 minute summary of your poster. You should be able to
     give this fluently to people who ask you about your research
     (practice with your supervisors/Peter if necessary)
@@ -735,8 +745,8 @@ If you are presenting a **poster**:
 
 If you are giving an **oral presentation**
 
-  - Use the Public Health Group PowerPoint template (add link here for
-    this)
+  - Use the Public Health Group PowerPoint template (Peter to add link
+    here for this)
   - Write out your talk, and practicing it lots (practice with your
     supervisors/Peter, as well as with your colleagues in the Group: is
     usually best to arrange formal practice sessions)
@@ -753,4 +763,3 @@ Here are some examples of good slide
     design:
 
   - <http://www.mjskay.com/presentations/openvisconf2018-bayes-uncertainty-2.pdf>
-  - (Add more here as a resource)
