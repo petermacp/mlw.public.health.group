@@ -125,7 +125,7 @@ All of the above, and you will also be expected to…
 *	Present your work at Group Meetings, MLW events, at other institutes (if invited), and at conferences
 *	Apply for grants with the support of senior PIs. It’s a valuable experience, and best to get it early.
 *	Think about what you want for your career (academia – research or teaching, industry, science writing, something else), and talk to Peter about it to make sure you’re getting the training you need for that career
-*	Make sure you meet all instutional deadlines (e.g., for your exams, PGR requirements, upgrading, and thesis) -- and make sure Peter/your other supervisors are aware of them!
+*	Make sure you meet all institutional deadlines (e.g., for your exams, PGR requirements, upgrading, and thesis) -- and make sure Peter/your other supervisors are aware of them!
 *	Prioritise time for research. Coursework and teaching are important, but ultimately your research gets you your degree and prepares you for the next stage of your career.
 
 
@@ -136,13 +136,13 @@ All of the above, and you will also be expected to…
 *	Develop your weekly schedule by talking to your supervisor. You should be coming in every day (apart from holidays and weekends), and scheduling enough time to get your work done
 *	Assist other Group members with data collection and analysis  if agreed with your supervisors 
 *	Complete and write-up your research project - students who produce high-quality papers and presentations will be more likely to be successful in future fellowship applications
-* Start planning for fellowhip/funding applications early. If you want to progress to do a Masters or PhD, identify sources of funding, and meet the deadlines for application. Please discuss all planned applications very early with your supervisors +/- Peter - at least 6 months is usually required to prepare a good Masters Fellowship application, and perhaps longer for a PhD application.
+* Start planning for fellowship/funding applications early. If you want to progress to do a Masters or PhD, identify sources of funding, and meet the deadlines for application. Please discuss all planned applications very early with your supervisors +/- Peter - at least 6 months is usually required to prepare a good Masters Fellowship application, and perhaps longer for a PhD application.
 
 **Code of Conduct**
 
 The Public Health Group, and MLW, is an environment that must be free of harassment and discrimination. All Group members are expected to abide by the CMLW on discrimination and harassment, which you can (and must) read about here (Peter to add link). 
 
-The Public Health Group is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Finally, it should go without saying that lewd language and behavior have no place in the Group. 
+The Public Health Group is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Finally, it should go without saying that lewd language and behaviour have no place in the Group. 
 
 If you notice someone being harassed, or are harassed yourself, tell Peter immediately. If Peter is the cause of your concern, then reach out to a senior member of MLW Staff (e.g. MLW Deputy Director or Director).
 
@@ -162,7 +162,7 @@ We believe that science should be open, reproducible, and freely available so th
 **Reproducible science**
 If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can’t reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can’t be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the Group.
 
-Reproducibile research requires that each step of the research process is documented and organised and stored. To facilitate reproducible research, we do the following:
+Reproducible research requires that each step of the research process is documented and organised and stored. To facilitate reproducible research, we do the following:
 
   * Use standardised naming, filing and version control for all documents and files produced by your project. We follow [this](https://speakerdeck.com/jennybc/how-to-name-files) approach to file naming and version control
 * Write a project concept note using [this](https://www.dropbox.com/s/hcoohy2nwo7dwrr/2018-12-06_concept-note-template.docx?dl=0) template, and submit for review by the Group Head - projects will be logged in the [Group Project Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TT5wktGTrLTnBy6aeuyXiiyDGT2dHWZsjV-0I-R3Bio/edit#gid=0)
@@ -177,7 +177,7 @@ Reproducibile research requires that each step of the research process is docume
 * Things are changing quickly. If you find a new approach to doing reproducible research that you think will work, share it with the group.
 
 **Freely available science**
-MLW receives subtantial core funding for research from Wellcome. Additionally, many group members and projects will receive funding from charities, governments and research institutes. For science to progress, it is essential that all of our research is available freely, and as soon as possible. We follow [Wellcome's Open Access Policy](https://wellcome.ac.uk/news/wellcome-updates-open-access-policy-align-coalition-s) in our approach to publication:
+MLW receives substantial core funding for research from Wellcome. Additionally, many group members and projects will receive funding from charities, governments and research institutes. For science to progress, it is essential that all of our research is available freely, and as soon as possible. We follow [Wellcome's Open Access Policy](https://wellcome.ac.uk/news/wellcome-updates-open-access-policy-align-coalition-s) in our approach to publication:
 
 * All research articles must be made freely available through [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) and [Europe PMC](https://europepmc.org) at the time of publication.
 * All articles must be published under a [Creative Commons attribution licence (CC-BY)](https://creativecommons.org/licenses/)
@@ -206,27 +206,48 @@ Authorship is based on four criteria:
 
 Authorship should usually be defined at the start of a project, before any data collection or analysis has taken place, and recorded on the Project Concept Note form. At the start of a new project, the student or post-doc taking on the lead role (i.e. the person who is leading the analysis and writing) can expect to be first author (talk to Peter about it if you aren’t sure). Peter will typically be the last author, unless the project is primarily under the guidance of another PI and Peter is involved as a secondary PI – then Peter will be second to last and the main PI will be last. Students and post-docs who help over the course of the project may be added to the author list depending on their contribution, and their placement will be discussed with all parties involved in the paper. If a student or post-doc takes on a project but subsequently hands it over to another student or post-doc, they will most likely lose first-authorship to that student or post-doc, unless co-first-authorship is appropriate. All of these issues will be discussed openly, and you should feel free to bring them up if you are not sure of your authorship status or want to challenge it.
 
-**Publication of mansucripts**
+**Writing manuscripts**
+It can be hard to write when you are staring at a blank page. Make your life easier by starting writing a manuscript using the Public Health Group [manuscript template](https://www.dropbox.com/s/lzfys39rsjkj7mq/2020-02-21_PH_paper-template.dotx?dl=0).
+
+To get started with writing, is is sometimes easiest to:
+ - start with the Methods section
+ - Then the Results section (including tables and figures)
+ - Then the Introduction section
+ - Then the Discussion section
+ - Then the abstract section
+ 
+Try to write using the active (rather than passive tense), and use personal pronouns. 
+
+Most journals will accept submissions in Microsoft Word, .pdf, or sometimes in latex. It is useful to check before you start writing.
+
+For referencing, we use [Zotero](https://www.zotero.org/), which has a helpful plugin for Microsoft Word.
+
+You can also try writing a manuscript as part of an R package, including the data, code, and output within a single RMarkdown document.
+
+Be careful with your spelling, formatting and grammar; mistakes here make your manuscript look less professional.
+
+**Publication of manuscripts**
 We aim to submit manuscripts as soon as possible to share results and facilitate open science. Before submission of a manuscript, the project lead should ensure that:
 
 * All authors meet authorship criteria, and have read/edited the manuscript and approved the decision to submit.
-* All authors' names and affliations are correct
+* All authors' names and affiliations are correct
 * An [ORCID ID](https://orcid.org) is provided for each author (where it is possible to do so)
 * The manuscript will be published under a Creative Commons attribution licence (CC-BY)
 * All funding sources are acknowledged appropriately
+* You have prepared a cover letter for submission, and have carefully followed the journal's instructions for authors
 
 Increasingly, manuscripts will be published as pre-prints, and we encourage this. Pre-print servers include:
 
 * [biorXiv](https://www.biorxiv.org)
 * [medrXiv](https://submit.medrxiv.org)
 
-Before selecting a journal to submit the manuscipt to, make sure that:
+Before selecting a journal to submit the manuscript to, make sure that:
 
 * The project senior author is aware and happy of the selection of journal
 * The journal is reputable, and not [predatory](https://en.wikipedia.org/wiki/Predatory_publishing)
 * If you are struggling to find a suitable journal, talk to the senior author, or try [JANE](http://jane.biosemantics.org)
 
-**Orphened projects**
+**Orphaned projects**
 If a student or post-doc collects a dataset but does not completely analyse it or write it up within two years after the end of data collection, Peter will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the two-year window, Peter will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data, and data of public health importance) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
 
 <br>
@@ -236,9 +257,9 @@ If a student or post-doc collects a dataset but does not completely analyse it o
 **Communications with Group Head**
 In addition to Group Meetings meetings (see below), you can find Peter at his desk. He is almost always available; feel free to ask for a chat. He will always say yes, though sometimes se can only spare a couple of minutes or might ask you to let him finish typing a sentence. If Peter is not at his desk, assume that he is either gone, in a meeting, or does not want to be disturbed – so please send a message (WhatsApp or e-mail) rather than waiting around.
 
-Peter also holds Scientific Office Hours on Monday afternoons from 13:00pm to 15:30pm. Please book a meeting by emailing Peter and Thandie (usually max 30mins to allow as many appointments as possible). Come prepared to the meeting: if you want to discuss some analysis, bring your code and a short summary of where you are struggling; if you want to discuss a new project, bring a Project Concept Note; if you want to discuss career direction, make some notes to disucss beforehand. Scientific Office Hours should not be used to resolve administrative issues. 
+Peter also holds Scientific Office Hours on Monday afternoons from 13:00pm to 15:30pm. Please book a meeting by emailing Peter and Thandie (usually max 30mins to allow as many appointments as possible). Come prepared to the meeting: if you want to discuss some analysis, bring your code and a short summary of where you are struggling; if you want to discuss a new project, bring a Project Concept Note; if you want to discuss career direction, make some notes to discuss beforehand. Scientific Office Hours should not be used to resolve administrative issues. 
 
-**Email and other communication etiquitte**
+**Email and other communication etiquette**
 
 We expect you to work hard and enjoy science whilst at work, but to be able to relax and enjoy your time away from work. Work communications out of hours can be intrusive and stressful - think twice before pressing send: nearly always, it can wait until tomorrow. Although some people work at the evenings or weekends, not everyone wants to, or is able to - please respect your colleagues home life by limiting work communications to work hours. If you receive a work communication outside of work, do not feel as though you have to respond until you are back at work. 
 
@@ -248,7 +269,7 @@ We expect you to work hard and enjoy science whilst at work, but to be able to r
 * If you send an email outside of work hours, ***do not*** expect a response until the next working day (at the very earliest) - receiving work emails can serious impact work-life balance. There is virtually nothing so important that it cannot wait until the next day for a response.
 * Please be polite and respectful when sending emails - you are writing to your professional colleagues
 * ***Do not*** send "reply-all" emails, unless everyone in the email group needs to read your response.
-* Be mindful when forwarding emails - did the orginal sender want to have their email sent to someone else?
+* Be mindful when forwarding emails - did the original sender want to have their email sent to someone else?
 * Make sure email addressed are spelled correctly, and beware of autocompleting addresses - check the "To" and "CC" lists twice before pressing "Send"
 * ***Do not*** send any personally-identifying information about study participants by email
 
@@ -280,7 +301,7 @@ We encourage you to:
 * Follow your colleagues and fellow scientists in the field
 * Tweet about new papers published, interesting manuscripts you have read, new grants, other achievements
 * Retweet tweets from your colleagues, using hash-tags and mentions
-* Consider reading a scientific paper a day, and Tweeting about it using the `#paperaday` hastag.
+* Consider reading a scientific paper a day, and Tweeting about it using the `#paperaday` hashtag.
 
 Be careful not to publish personally-identifying information about study participants (e.g. photos, names etc without consent). Speak to Peter or MLW SciComm Department if you want further help on using Twitter.
 
@@ -297,6 +318,8 @@ In general, ask Peter to borrow hard copies if needed.
 **Statistics and Epidemiology**
 
 * [Statistical Rethinking: A Bayesian Course with examples in R and Stan - Richard McIlreath](https://xcelab.net/rm/statistical-rethinking/)
+* [Statistical Rethinking with brms, ggplot2, and the tidyverse - A Solomon Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+* [Doing Bayesian Data Analysis in brms and the tidyverse - A Solomon Kurz](https://bookdown.org/ajkurz/DBDA_recoded/)
 * [Modern Epidemiology - Kenneth J. Rothman, Sander Greenland, Timothy L. Lash](https://books.google.mw/books/about/Modern_Epidemiology.html?id=Z3vjT9ALxHUC&redir_esc=y) 
 * [Regression Modelling Strategies - Frank E Harrell Jr](http://hbiostat.org/doc/rms.pdf)
 * [The Art of Statistics - David J Speigelhalter](https://www.penguin.co.uk/books/294/294857/the-art-of-statistics/9780241398630.html)
@@ -351,12 +374,12 @@ Similar for publications, you should follow authorship guidelines for conference
 
  - Travel, including airplane flights if required
  - Visas
- - Hotels/accomodation
+ - Hotels/accommodation
  - Travel/health insurance
- - Conference registeration
+ - Conference registration
  - Local expenses (travel, food, etc)
 
-Remember that when you are at a conference, you are respresenting the Public Health Group and MLW - follow the Group Code of Conduct.
+Remember that when you are at a conference, you are representing the Public Health Group and MLW - follow the Group Code of Conduct.
 
 **Essential Conferences**
 
@@ -381,18 +404,18 @@ There are other important conferences that you might consider submitting an abst
 
 If you are presenting a **poster**:
 
-* Use the Public Health Group Poster template (Peter to add a link here for this). 
+* Use the Public Health Group [poster template](https://www.dropbox.com/s/v5u02imwxnebeav/2020-02-21_PH_poster-template.pptx?dl=0). 
 * Prepare a 1-2 minute summary of your poster. You should be able to give this fluently to people who ask you about your research (practice with your supervisors/Peter if necessary)
 * Think about how you are going to get your poster printed, and take it to the conference (fabric printing is very convenient)
 * Don't put your poster up, then ignore it. Standing by your poster at the poster sessions is a great way to meet scientists interested in your research.
 
 If you are giving an **oral presentation**
 
-* Use the Public Health Group PowerPoint template (Peter to add link here for this)
-* Write out your talk, and practicing it lots (practice with your supervisors/Peter, as well as with your colleagues in the Group: is usually best to arrange formal practice sessions)
+* Use the Public Health Group [PowerPoint template](https://www.dropbox.com/s/6mfffabq1cj944q/MLW_theme.potx?dl=0)
+* Write out your talk, and practising it lots (practice with your supervisors/Peter, as well as with your colleagues in the Group: is usually best to arrange formal practice sessions)
 * Usually, it is a good idea to stick to one slide per minute available, and one message per slide. Most people try to put far too much on slides, and they end up becoming unreadable.
 * Use high-resource images and figures (not less than 300 dots per inch)
-* Make sure that you load your slides at the conference venue (usually at the media centre), and check that the formating is all correct (issues often with fonts and image resolution/corruption)
+* Make sure that you load your slides at the conference venue (usually at the media centre), and check that the formatting is all correct (issues often with fonts and image resolution/corruption)
 
 Here are some examples of good slide design:
 

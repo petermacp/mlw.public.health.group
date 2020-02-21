@@ -244,9 +244,9 @@ All of the above, and you will also be expected to…
     teaching, industry, science writing, something else), and talk to
     Peter about it to make sure you’re getting the training you need for
     that career
-  - Make sure you meet all instutional deadlines (e.g., for your exams,
-    PGR requirements, upgrading, and thesis) – and make sure Peter/your
-    other supervisors are aware of them\!
+  - Make sure you meet all institutional deadlines (e.g., for your
+    exams, PGR requirements, upgrading, and thesis) – and make sure
+    Peter/your other supervisors are aware of them\!
   - Prioritise time for research. Coursework and teaching are important,
     but ultimately your research gets you your degree and prepares you
     for the next stage of your career.
@@ -263,12 +263,12 @@ All of the above, and you will also be expected to…
   - Complete and write-up your research project - students who produce
     high-quality papers and presentations will be more likely to be
     successful in future fellowship applications
-  - Start planning for fellowhip/funding applications early. If you want
-    to progress to do a Masters or PhD, identify sources of funding, and
-    meet the deadlines for application. Please discuss all planned
-    applications very early with your supervisors +/- Peter - at least 6
-    months is usually required to prepare a good Masters Fellowship
-    application, and perhaps longer for a PhD application.
+  - Start planning for fellowship/funding applications early. If you
+    want to progress to do a Masters or PhD, identify sources of
+    funding, and meet the deadlines for application. Please discuss all
+    planned applications very early with your supervisors +/- Peter - at
+    least 6 months is usually required to prepare a good Masters
+    Fellowship application, and perhaps longer for a PhD application.
 
 **Code of Conduct**
 
@@ -285,7 +285,7 @@ appearance, body size, race, or religion. We will not tolerate
 intimidation, stalking, following, unwanted photography or video
 recording, sustained disruption of talks or other events, inappropriate
 physical contact, and unwelcome sexual attention. Finally, it should go
-without saying that lewd language and behavior have no place in the
+without saying that lewd language and behaviour have no place in the
 Group.
 
 If you notice someone being harassed, or are harassed yourself, tell
@@ -324,8 +324,8 @@ both) of you has made errors in the analysis, and the results can’t be
 trusted. Reproducible research is an essential part of science, and an
 expectation for all projects in the Group.
 
-Reproducibile research requires that each step of the research process
-is documented and organised and stored. To facilitate reproducible
+Reproducible research requires that each step of the research process is
+documented and organised and stored. To facilitate reproducible
 research, we do the following:
 
   - Use standardised naming, filing and version control for all
@@ -370,7 +370,7 @@ research, we do the following:
     reproducible research that you think will work, share it with the
     group.
 
-**Freely available science** MLW receives subtantial core funding for
+**Freely available science** MLW receives substantial core funding for
 research from Wellcome. Additionally, many group members and projects
 will receive funding from charities, governments and research
 institutes. For science to progress, it is essential that all of our
@@ -437,18 +437,45 @@ co-first-authorship is appropriate. All of these issues will be
 discussed openly, and you should feel free to bring them up if you are
 not sure of your authorship status or want to challenge it.
 
-**Publication of mansucripts** We aim to submit manuscripts as soon as
+**Writing manuscripts** It can be hard to write when you are staring at
+a blank page. Make your life easier by starting writing a manuscript
+using the Public Health Group [manuscript
+template](https://www.dropbox.com/s/lzfys39rsjkj7mq/2020-02-21_PH_paper-template.dotx?dl=0).
+
+To get started with writing, is is sometimes easiest to: - start with
+the Methods section - Then the Results section (including tables and
+figures) - Then the Introduction section - Then the Discussion section -
+Then the abstract section
+
+Try to write using the active (rather than passive tense), and use
+personal pronouns.
+
+Most journals will accept submissions in Microsoft Word, .pdf, or
+sometimes in latex. It is useful to check before you start writing.
+
+For referencing, we use [Zotero](https://www.zotero.org/), which has a
+helpful plugin for Microsoft Word.
+
+You can also try writing a manuscript as part of an R package, including
+the data, code, and output within a single RMarkdown document.
+
+Be careful with your spelling, formatting and grammar; mistakes here
+make your manuscript look less professional.
+
+**Publication of manuscripts** We aim to submit manuscripts as soon as
 possible to share results and facilitate open science. Before submission
 of a manuscript, the project lead should ensure that:
 
   - All authors meet authorship criteria, and have read/edited the
     manuscript and approved the decision to submit.
-  - All authors’ names and affliations are correct
+  - All authors’ names and affiliations are correct
   - An [ORCID ID](https://orcid.org) is provided for each author (where
     it is possible to do so)
   - The manuscript will be published under a Creative Commons
     attribution licence (CC-BY)
   - All funding sources are acknowledged appropriately
+  - You have prepared a cover letter for submission, and have carefully
+    followed the journal’s instructions for authors
 
 Increasingly, manuscripts will be published as pre-prints, and we
 encourage this. Pre-print servers include:
@@ -456,7 +483,7 @@ encourage this. Pre-print servers include:
   - [biorXiv](https://www.biorxiv.org)
   - [medrXiv](https://submit.medrxiv.org)
 
-Before selecting a journal to submit the manuscipt to, make sure that:
+Before selecting a journal to submit the manuscript to, make sure that:
 
   - The project senior author is aware and happy of the selection of
     journal
@@ -465,7 +492,7 @@ Before selecting a journal to submit the manuscipt to, make sure that:
   - If you are struggling to find a suitable journal, talk to the senior
     author, or try [JANE](http://jane.biosemantics.org)
 
-**Orphened projects** If a student or post-doc collects a dataset but
+**Orphaned projects** If a student or post-doc collects a dataset but
 does not completely analyse it or write it up within two years after the
 end of data collection, Peter will re-assign the project (if
 appropriate) to another person to expedite publication. If a student or
@@ -495,11 +522,11 @@ Peter also holds Scientific Office Hours on Monday afternoons from
 prepared to the meeting: if you want to discuss some analysis, bring
 your code and a short summary of where you are struggling; if you want
 to discuss a new project, bring a Project Concept Note; if you want to
-discuss career direction, make some notes to disucss beforehand.
+discuss career direction, make some notes to discuss beforehand.
 Scientific Office Hours should not be used to resolve administrative
 issues.
 
-**Email and other communication etiquitte**
+**Email and other communication etiquette**
 
 We expect you to work hard and enjoy science whilst at work, but to be
 able to relax and enjoy your time away from work. Work communications
@@ -525,7 +552,7 @@ back at work.
     writing to your professional colleagues
   - ***Do not*** send “reply-all” emails, unless everyone in the email
     group needs to read your response.
-  - Be mindful when forwarding emails - did the orginal sender want to
+  - Be mindful when forwarding emails - did the original sender want to
     have their email sent to someone else?
   - Make sure email addressed are spelled correctly, and beware of
     autocompleting addresses - check the “To” and “CC” lists twice
@@ -572,7 +599,7 @@ We encourage you to:
     read, new grants, other achievements
   - Retweet tweets from your colleagues, using hash-tags and mentions
   - Consider reading a scientific paper a day, and Tweeting about it
-    using the `#paperaday` hastag.
+    using the `#paperaday` hashtag.
 
 Be careful not to publish personally-identifying information about study
 participants (e.g. photos, names etc without consent). Speak to Peter or
@@ -592,6 +619,11 @@ In general, ask Peter to borrow hard copies if needed.
   - [Statistical Rethinking: A Bayesian Course with examples in R and
     Stan - Richard
     McIlreath](https://xcelab.net/rm/statistical-rethinking/)
+  - [Statistical Rethinking with brms, ggplot2, and the tidyverse - A
+    Solomon
+    Kurz](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+  - [Doing Bayesian Data Analysis in brms and the tidyverse - A Solomon
+    Kurz](https://bookdown.org/ajkurz/DBDA_recoded/)
   - [Modern Epidemiology - Kenneth J. Rothman, Sander Greenland, Timothy
     L.
     Lash](https://books.google.mw/books/about/Modern_Epidemiology.html?id=Z3vjT9ALxHUC&redir_esc=y)
@@ -688,15 +720,15 @@ conference submissions
 
   - Visas
 
-  - Hotels/accomodation
+  - Hotels/accommodation
 
   - Travel/health insurance
 
-  - Conference registeration
+  - Conference registration
 
   - Local expenses (travel, food, etc)
 
-Remember that when you are at a conference, you are respresenting the
+Remember that when you are at a conference, you are representing the
 Public Health Group and MLW - follow the Group Code of Conduct.
 
 **Essential Conferences**
@@ -732,8 +764,8 @@ is a helpful resource of conferences.
 
 If you are presenting a **poster**:
 
-  - Use the Public Health Group Poster template (Peter to add a link
-    here for this).
+  - Use the Public Health Group [poster
+    template](https://www.dropbox.com/s/v5u02imwxnebeav/2020-02-21_PH_poster-template.pptx?dl=0).
   - Prepare a 1-2 minute summary of your poster. You should be able to
     give this fluently to people who ask you about your research
     (practice with your supervisors/Peter if necessary)
@@ -745,9 +777,9 @@ If you are presenting a **poster**:
 
 If you are giving an **oral presentation**
 
-  - Use the Public Health Group PowerPoint template (Peter to add link
-    here for this)
-  - Write out your talk, and practicing it lots (practice with your
+  - Use the Public Health Group [PowerPoint
+    template](https://www.dropbox.com/s/6mfffabq1cj944q/MLW_theme.potx?dl=0)
+  - Write out your talk, and practising it lots (practice with your
     supervisors/Peter, as well as with your colleagues in the Group: is
     usually best to arrange formal practice sessions)
   - Usually, it is a good idea to stick to one slide per minute
@@ -756,7 +788,7 @@ If you are giving an **oral presentation**
   - Use high-resource images and figures (not less than 300 dots per
     inch)
   - Make sure that you load your slides at the conference venue (usually
-    at the media centre), and check that the formating is all correct
+    at the media centre), and check that the formatting is all correct
     (issues often with fonts and image resolution/corruption)
 
 Here are some examples of good slide

@@ -1,6 +1,6 @@
 Package: mlw.public.health.group
 Title: Group Handbook for the MLW Public Health Group
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: 
     person(given = "Peter",
            family = "MacPherson",
